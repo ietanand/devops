@@ -2,3 +2,4 @@ Dummy file
 Added second line
 Added third line
 Added fourth line
+Added another line
