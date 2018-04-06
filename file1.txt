@@ -1,7 +1,7 @@
 Dummy file
 Added second line
 Added third line
-Added fourth line
+Added 4 line
 Added another line
 Added last line
 Added a line in featureone
